@@ -11,7 +11,7 @@ You can read the README that is part of each sample and follow along the instruc
 
 You can build the entire samples by going to the root of the repository and then do: `./mvnw clean package`
 However, the recommended approach to build them is to pick the sample that you are interested in and go to that particular app and follow the instructions there in the README for that app. 
-
+ 
 === Following is the list of various sample applications provided
 
 ==== Source samples
